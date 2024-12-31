@@ -30,7 +30,7 @@ psutil
 pybase64
 pycountry
 pymongo
-pyrofork==2.3.45
+pyrofork==2.3.0
 python-dotenv
 python-magic
 qbittorrent-api
@@ -43,4 +43,3 @@ uv
 uvloop
 xattr
 yt-dlp
-pytz
